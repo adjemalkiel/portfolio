@@ -8,7 +8,7 @@ export const About = () => {
     "Git"
   ];
 
-  const backendSkills = ["Bash", "C#", "Powershell","MongoDB", "Node.js", "Java", "PHP", "T-SQL", "SQL"];
+  const backendSkills = ["Bash", "C#", "Python", "Powershell","MongoDB", "Node.JS", "Java", "PHP", "T-SQL", "SQL"];
 
   return (
     <section

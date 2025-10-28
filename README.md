@@ -60,7 +60,7 @@ npm run preview
 ## Folder Structure
 
 ```
-your-portfolio/
+portfolio/
 ├── public/
 │   └── index.html
 ├── src/
